@@ -1,2 +1,2 @@
 selenium==3.14
-Flask==0.8
+Flask
